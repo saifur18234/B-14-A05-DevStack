@@ -20,6 +20,7 @@ function App() {
           <p>
             Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
           </p>
+          <div className="badge badge-soft badge-accent">Accent</div>
         </div>
         <button
           type="button"
