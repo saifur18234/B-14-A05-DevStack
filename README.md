@@ -15,6 +15,10 @@ and TypeScript.Users can explore different development technologies and create t
 
 📦 React Icons
 
+🔔 React Toastify
+
+📄 JSON
+
 ## 🌟 Features
 
 ## 1. 🔍 Explore Technologies
