@@ -22,7 +22,11 @@ const Sidebar = ({
             )}
 
             {stack.length === 0 ? (
-                <p className="text-gray-500 mt-3">Your stack is empty.</p>
+                <div className="mt-12">
+                    <p className="text-gray-500 mt-3 border border-gray-400 p-7 flex items-center justify-center rounded-lg">
+                        Your stack is empty.
+                    </p>
+                </div>
             ) : (
                 <>
                     <div>
